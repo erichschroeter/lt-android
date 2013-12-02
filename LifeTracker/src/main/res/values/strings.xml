@@ -2,7 +2,12 @@
 <resources>
 
     <string name="app_name">LifeTracker</string>
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string-array name="drawer_titles">
+        <item>Upcoming</item>
+        <item>History</item>
+    </string-array>
+    <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
 
 </resources>
